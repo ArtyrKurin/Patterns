@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorPattern", "FactorPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{C2C1ECAA-7E15-4617-ABE4-5A0E2B6F44C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facad", "Facad\Facad.csproj", "{BC36F4FE-FB65-41BB-820C-9450F74A335C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facad\Facade.csproj", "{BC36F4FE-FB65-41BB-820C-9450F74A335C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
