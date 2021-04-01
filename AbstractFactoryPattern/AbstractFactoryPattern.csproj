@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55EC9AE8-C12B-492C-AED2-FF68B911B23A}</ProjectGuid>
+    <ProjectGuid>{C2C1ECAA-7E15-4617-ABE4-5A0E2B6F44C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FactorPattern</RootNamespace>
-    <AssemblyName>FactorPattern</AssemblyName>
+    <RootNamespace>AbstractFactoryPattern</RootNamespace>
+    <AssemblyName>AbstractFactoryPattern</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Creater\CatsCreator.cs" />
-    <Compile Include="Creater\DogsCreator.cs" />
-    <Compile Include="Example.cs" />
-    <Compile Include="Interface\ICatalog.cs" />
-    <Compile Include="PetShop.cs" />
-    <Compile Include="PetsModel\Cats.cs" />
-    <Compile Include="PetsModel\Dogs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
