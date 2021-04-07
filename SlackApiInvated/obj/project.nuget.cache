@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvV/jid32Q/OEDiaARgDDWiq6/btpZGhjGTwslx0ne2LBbbM9rKH82Oaei1g8mWPORfw6Llh9npOSg1qAFRATQ==",
+  "success": true,
+  "projectFilePath": "D:\\FactorPattern\\SlackApiInvated\\SlackApiInvated.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

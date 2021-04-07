@@ -43,6 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstracts\HeroFactory.cs" />
+    <Compile Include="Abstracts\Movement.cs" />
+    <Compile Include="Abstracts\Weapon.cs" />
+    <Compile Include="Factory\ElfFactoryClient.cs" />
+    <Compile Include="Factory\VoinFactoryClient.cs" />
+    <Compile Include="GenericCreateHero\MyHeroFactory.cs" />
+    <Compile Include="HeroOpportunities\Arbalet.cs" />
+    <Compile Include="HeroOpportunities\FlyMovement .cs" />
+    <Compile Include="HeroOpportunities\RunMovement.cs" />
+    <Compile Include="HeroOpportunities\Sword.cs" />
+    <Compile Include="HeroClient\Hero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,15 @@
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.exe
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.deps.json
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.runtimeconfig.json
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.runtimeconfig.dev.json
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.dll
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\SlackApiInvated.pdb
+D:\FactorPattern\SlackApiInvated\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.csprojAssemblyReference.cache
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.AssemblyInfoInputs.cache
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.AssemblyInfo.cs
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.csproj.CoreCompileInputs.cache
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.csproj.CopyComplete
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.dll
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.pdb
+D:\FactorPattern\SlackApiInvated\obj\Debug\netcoreapp3.1\SlackApiInvated.genruntimeconfig.cache
