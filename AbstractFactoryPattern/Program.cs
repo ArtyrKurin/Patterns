@@ -11,12 +11,17 @@ namespace AbstractFactoryPattern
     {
         static void Main(string[] args)
         {
+            //Facade
             DamageHealth damage = new DamageHealth();
             Health health = new Health();
             Facade facade = new Facade(damage, health);
+            //AbstractFactory
             Hero elf = MyHeroFactory<ElfFactory>.Create();
+            //AbstractFactory Method
             elf.Hit();
+            // Facade Method
             Console.WriteLine(facade.Operation2());
+            //AbstractFactory Method
             elf.Run();
 
             Hero voin = MyHeroFactory<VoinFactory>.Create();
