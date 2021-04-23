@@ -1,0 +1,13 @@
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+D:\FactorPattern\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.csprojAssemblyReference.cache
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
+D:\FactorPattern\Learning\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache

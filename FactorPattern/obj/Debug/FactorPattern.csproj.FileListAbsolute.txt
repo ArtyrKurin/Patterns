@@ -1,6 +1,0 @@
-D:\FactorPattern\FactorPattern\obj\Debug\FactorPattern.csproj.CoreCompileInputs.cache
-D:\FactorPattern\FactorPattern\bin\Debug\FactorPattern.exe.config
-D:\FactorPattern\FactorPattern\bin\Debug\FactorPattern.exe
-D:\FactorPattern\FactorPattern\bin\Debug\FactorPattern.pdb
-D:\FactorPattern\FactorPattern\obj\Debug\FactorPattern.exe
-D:\FactorPattern\FactorPattern\obj\Debug\FactorPattern.pdb

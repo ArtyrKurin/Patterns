@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "265h5QD8tWV6oNkfS5jEFzvStn77u3OSgFdlcaxvbBRaUr/MnQ747XUnyGl948M7qbD9z1vE/lm/Qe2iJdjXhA==",
+  "success": true,
+  "projectFilePath": "D:\\FactorPattern\\Learning\\Learning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Az+E+uoc0vlaDgJ+MpiJQCbe12EvJz5NtBfyur7J6QjUWGg2EjKsyO2flwGkcLelqJ2ZX6L3tmIKH2nVJgyK/Q==",
+  "dgSpecHash": "uxnlAljumytyALtMu1Dr1oOjT0aAmT4sWlUmu64CQ5YyQyqOa3LIzLjmdzNRUTfCB3LOcnKiM0ZZZA/qw1EpPA==",
   "success": true,
   "projectFilePath": "D:\\FactorPattern\\Strategy\\Strategy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
