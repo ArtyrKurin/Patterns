@@ -1,0 +1,7 @@
+D:\FactorPattern\Facad\bin\Debug\Facad.exe.config
+D:\FactorPattern\Facad\bin\Debug\Facad.exe
+D:\FactorPattern\Facad\bin\Debug\Facad.pdb
+D:\FactorPattern\Facad\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\FactorPattern\Facad\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\FactorPattern\Facad\obj\Debug\Facad.exe
+D:\FactorPattern\Facad\obj\Debug\Facad.pdb
