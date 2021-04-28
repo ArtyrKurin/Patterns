@@ -97,3 +97,6 @@ D:\FactorPattern\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CopyComplete
 D:\FactorPattern\TDD\obj\Debug\netcoreapp3.1\TDD.dll
 D:\FactorPattern\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
 D:\FactorPattern\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache
+D:\FactorPattern\TDD\bin\Debug\netcoreapp3.1\Command.exe
+D:\FactorPattern\TDD\bin\Debug\netcoreapp3.1\Command.dll
+D:\FactorPattern\TDD\bin\Debug\netcoreapp3.1\Command.pdb

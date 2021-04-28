@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "TDD/1.0.0": {
         "dependencies": {
+          "Command": "1.0.0",
           "Learning": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.12.0",
@@ -866,6 +867,11 @@
           }
         }
       },
+      "Command/1.0.0": {
+        "runtime": {
+          "Command.dll": {}
+        }
+      },
       "Learning/1.0.0": {
         "runtime": {
           "Learning.dll": {}
@@ -1319,6 +1325,11 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Command/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Learning/1.0.0": {
       "type": "project",

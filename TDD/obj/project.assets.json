@@ -1226,6 +1226,16 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "Command/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Command.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Command.dll": {}
+        }
+      },
       "Learning/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -4624,6 +4634,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "Command/1.0.0": {
+      "type": "project",
+      "path": "../Command/Command.csproj",
+      "msbuildProject": "../Command/Command.csproj"
+    },
     "Learning/1.0.0": {
       "type": "project",
       "path": "../Learning/Learning.csproj",
@@ -4632,6 +4647,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Command >= 1.0.0",
       "Learning >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
@@ -4670,6 +4686,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "D:\\FactorPattern\\Command\\Command.csproj": {
+              "projectPath": "D:\\FactorPattern\\Command\\Command.csproj"
+            },
             "D:\\FactorPattern\\Learning\\Learning.csproj": {
               "projectPath": "D:\\FactorPattern\\Learning\\Learning.csproj"
             }

@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Command\Command.csproj" />
     <ProjectReference Include="..\Learning\Learning.csproj" />
   </ItemGroup>
 

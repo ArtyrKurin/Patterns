@@ -1,0 +1,13 @@
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.AssemblyInfoInputs.cache
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.AssemblyInfo.cs
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.csproj.CoreCompileInputs.cache
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.exe
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.deps.json
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.runtimeconfig.json
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.runtimeconfig.dev.json
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.dll
+D:\FactorPattern\Fto\bin\Debug\netcoreapp3.1\Fto.pdb
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.csprojAssemblyReference.cache
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.dll
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.pdb
+D:\FactorPattern\Fto\obj\Debug\netcoreapp3.1\Fto.genruntimeconfig.cache
