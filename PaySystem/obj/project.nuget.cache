@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDfOok27G4T1EctYBH9Zg6Yz3jFhNRwVXSlZcSjw2iEiyR9ZVJk+JcJErpLFNljiH1NwqJuXzlrfgQbughWTZg==",
+  "success": true,
+  "projectFilePath": "D:\\FactorPattern\\PaySystem\\PaySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

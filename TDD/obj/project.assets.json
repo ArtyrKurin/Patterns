@@ -1245,6 +1245,26 @@
         "runtime": {
           "bin/placeholder/Learning.dll": {}
         }
+      },
+      "ModemSys/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ModemSys.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModemSys.dll": {}
+        }
+      },
+      "PaySystem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PaySystem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaySystem.dll": {}
+        }
       }
     }
   },
@@ -4643,6 +4663,16 @@
       "type": "project",
       "path": "../Learning/Learning.csproj",
       "msbuildProject": "../Learning/Learning.csproj"
+    },
+    "ModemSys/1.0.0": {
+      "type": "project",
+      "path": "../ModemPay/ModemSys.csproj",
+      "msbuildProject": "../ModemPay/ModemSys.csproj"
+    },
+    "PaySystem/1.0.0": {
+      "type": "project",
+      "path": "../PaySystem/PaySystem.csproj",
+      "msbuildProject": "../PaySystem/PaySystem.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4650,8 +4680,10 @@
       "Command >= 1.0.0",
       "Learning >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "ModemSys >= 1.0.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1"
+      "NUnit3TestAdapter >= 3.16.1",
+      "PaySystem >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4691,6 +4723,12 @@
             },
             "D:\\FactorPattern\\Learning\\Learning.csproj": {
               "projectPath": "D:\\FactorPattern\\Learning\\Learning.csproj"
+            },
+            "D:\\FactorPattern\\ModemPay\\ModemSys.csproj": {
+              "projectPath": "D:\\FactorPattern\\ModemPay\\ModemSys.csproj"
+            },
+            "D:\\FactorPattern\\PaySystem\\PaySystem.csproj": {
+              "projectPath": "D:\\FactorPattern\\PaySystem\\PaySystem.csproj"
             }
           }
         }

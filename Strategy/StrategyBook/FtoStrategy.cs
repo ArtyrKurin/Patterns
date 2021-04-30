@@ -8,11 +8,6 @@ namespace Strategy.StrategyBook
         private TextReader input;
         private TextWriter output;
         private bool isDone = false;
-
-        public static void Main(string[] args)
-        {
-            (new ApplicationRunner(new FtoStrategy())).run();
-        }
         public void CleanUp()
         {
             Console.WriteLine("ftoc exit");

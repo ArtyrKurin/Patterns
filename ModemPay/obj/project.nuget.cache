@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oTHivO5lZYD/d1FtNIY5D0lKui5WeXc4S8HxYi7STvvuOdH24mQMRiKQf943cyUmzG+m9xO3B+AxeZDz3uSYcw==",
+  "success": true,
+  "projectFilePath": "D:\\FactorPattern\\ModemPay\\ModemSys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
