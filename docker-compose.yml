@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mvvm:
+    image: ${DOCKER_REGISTRY-}mvvm
+    build:
+      context: .
+      dockerfile: MVVM\Dockerfile
