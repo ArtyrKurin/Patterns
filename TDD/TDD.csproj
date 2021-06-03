@@ -16,7 +16,6 @@
     <ProjectReference Include="..\Command\Command.csproj" />
     <ProjectReference Include="..\Learning\Learning.csproj" />
     <ProjectReference Include="..\ModemPay\ModemSys.csproj" />
-    <ProjectReference Include="..\PaySystem\PaySystem.csproj" />
   </ItemGroup>
 
 </Project>

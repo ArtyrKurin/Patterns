@@ -13,7 +13,7 @@
 
         protected override bool OutIfOrder(int index)
         {
-            return (array[index] > array[index + 1]);
+            return array[index] > array[index + 1];
         }
 
         protected override void Swap(int index)

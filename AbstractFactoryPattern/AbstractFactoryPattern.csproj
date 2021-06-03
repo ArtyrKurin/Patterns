@@ -46,6 +46,8 @@
     <Compile Include="Abstracts\HeroFactory.cs" />
     <Compile Include="Abstracts\Movement.cs" />
     <Compile Include="Abstracts\Weapon.cs" />
+    <Compile Include="AdapterPattern\Adaptee.cs" />
+    <Compile Include="AdapterPattern\Adapter.cs" />
     <Compile Include="FacadeClient\Facade.cs" />
     <Compile Include="Factory\ElfFactoryClient.cs" />
     <Compile Include="Factory\VoinFactoryClient.cs" />
@@ -55,6 +57,7 @@
     <Compile Include="HeroOpportunities\RunMovement.cs" />
     <Compile Include="HeroOpportunities\Sword.cs" />
     <Compile Include="HeroClient\Hero.cs" />
+    <Compile Include="InterfacesAdapter\IInfoAdapter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SubSystems\DamageHealth.cs" />

@@ -1,0 +1,10 @@
+D:\FactorPattern\DownloadWord\bin\Debug\DownloadWord.exe.config
+D:\FactorPattern\DownloadWord\bin\Debug\DownloadWord.exe
+D:\FactorPattern\DownloadWord\bin\Debug\DownloadWord.pdb
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.csprojAssemblyReference.cache
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.Form1.resources
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.Properties.Resources.resources
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.csproj.GenerateResource.cache
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.csproj.CoreCompileInputs.cache
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.exe
+D:\FactorPattern\DownloadWord\obj\Debug\DownloadWord.pdb

@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>781185ee-de00-4e47-a859-cf7a9264f053</ProjectGuid>
+    <ProjectGuid>4b9b031c-adc8-4b6c-88ae-4d3b37d8ad19</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}</DockerServiceUrl>
     <DockerServiceName>mvvm</DockerServiceName>

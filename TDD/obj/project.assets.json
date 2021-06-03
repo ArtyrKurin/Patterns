@@ -1255,16 +1255,6 @@
         "runtime": {
           "bin/placeholder/ModemSys.dll": {}
         }
-      },
-      "PaySystem/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/PaySystem.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PaySystem.dll": {}
-        }
       }
     }
   },
@@ -4668,11 +4658,6 @@
       "type": "project",
       "path": "../ModemPay/ModemSys.csproj",
       "msbuildProject": "../ModemPay/ModemSys.csproj"
-    },
-    "PaySystem/1.0.0": {
-      "type": "project",
-      "path": "../PaySystem/PaySystem.csproj",
-      "msbuildProject": "../PaySystem/PaySystem.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4682,8 +4667,7 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "ModemSys >= 1.0.0",
       "NUnit >= 3.12.0",
-      "NUnit3TestAdapter >= 3.16.1",
-      "PaySystem >= 1.0.0"
+      "NUnit3TestAdapter >= 3.16.1"
     ]
   },
   "packageFolders": {
@@ -4726,9 +4710,6 @@
             },
             "D:\\FactorPattern\\ModemPay\\ModemSys.csproj": {
               "projectPath": "D:\\FactorPattern\\ModemPay\\ModemSys.csproj"
-            },
-            "D:\\FactorPattern\\PaySystem\\PaySystem.csproj": {
-              "projectPath": "D:\\FactorPattern\\PaySystem\\PaySystem.csproj"
             }
           }
         }
