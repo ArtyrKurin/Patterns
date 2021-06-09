@@ -10,3 +10,4 @@ D:\FactorPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInp
 D:\FactorPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
 D:\FactorPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
 D:\FactorPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache
+D:\FactorPattern\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache

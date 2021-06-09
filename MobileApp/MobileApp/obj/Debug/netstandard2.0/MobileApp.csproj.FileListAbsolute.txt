@@ -1,0 +1,14 @@
+D:\FactorPattern\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+D:\FactorPattern\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+D:\FactorPattern\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+D:\FactorPattern\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+D:\FactorPattern\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb

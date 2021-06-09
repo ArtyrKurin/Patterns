@@ -1,0 +1,4 @@
+D:\FactorPattern\ModemPay\obj\Debug\netcoreapp3.1\ModemSys.csprojAssemblyReference.cache
+D:\FactorPattern\ModemPay\obj\Debug\netcoreapp3.1\ModemSys.AssemblyInfoInputs.cache
+D:\FactorPattern\ModemPay\obj\Debug\netcoreapp3.1\ModemSys.AssemblyInfo.cs
+D:\FactorPattern\ModemPay\obj\Debug\netcoreapp3.1\ModemSys.csproj.CoreCompileInputs.cache
