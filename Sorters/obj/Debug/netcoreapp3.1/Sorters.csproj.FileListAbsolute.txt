@@ -1,4 +1,0 @@
-D:\FactorPattern\Sorters\obj\Debug\netcoreapp3.1\Sorters.csprojAssemblyReference.cache
-D:\FactorPattern\Sorters\obj\Debug\netcoreapp3.1\Sorters.AssemblyInfoInputs.cache
-D:\FactorPattern\Sorters\obj\Debug\netcoreapp3.1\Sorters.AssemblyInfo.cs
-D:\FactorPattern\Sorters\obj\Debug\netcoreapp3.1\Sorters.csproj.CoreCompileInputs.cache
